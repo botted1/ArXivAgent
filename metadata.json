@@ -1,0 +1,6 @@
+{
+  "name": "ArXivAgent - CS Research Paper & Architecture Analyzer",
+  "description": "AI-powered Computer Science Research Agent for parsing academic papers, generating Mermaid.js system architectures, and engineering student resume project opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
